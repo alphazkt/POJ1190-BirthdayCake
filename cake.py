@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
-Created on 2017��5��12��
+Created on 2017年5月12日
 m层蛋糕体积为n 最小表面积
-@author: tao
+@author: Alphatao
 
 '''
 from math import sqrt
